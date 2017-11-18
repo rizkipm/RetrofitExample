@@ -1,11 +1,8 @@
 package rizki.pm.retrofitexampletutorial;
 
+
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
-
-/**
- * Created by rizkisyaputra on 11/18/17.
- */
 
 public class PMHelper {
     private static Retrofit retrofit;
